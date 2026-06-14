@@ -1,3 +1,8 @@
+# Hi chicos, soy Daniel Mauricio Galindo 👋
+
+### Full Stack Software Developer | Backend Specialist
+
+
 <p align="start">
   <a href="https://github.com/danielgalindo69">
     <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=23&start=true&vstart=true&width=1100&height=40&lines=¡Hola!+Soy+Daniel+Mauricio+Galindo+👋;Desarrollador+Full+Stack+|+Especialista+Backend+☕;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Angular;Construyendo+apps+seguras%2C+escalables+y+eficientes+🚀;Explorando+Agentes+IA%2C+MCP+y+Desarrollo+Móvil+📱;Bienvenido+a+mi+GitHub+✨">
@@ -6,7 +11,7 @@
 
 ### Desarrollador Full Stack · Especialista en Backend
 
-> Diseñando arquitecturas robustas, APIs eficientes y soluciones escalables con el ecosistema Java — mientras exploro agentes de IA y desarrollo móvil.
+> Apasionado por construir el código que nadie ve pero todos sienten: backends robustos con Java y Spring Boot, APIs limpias que no fallan y arquitecturas que aguantan lo que venga. Me gusta que las cosas funcionen bien por dentro, no solo por fuera — y cuando no estoy en el backend, estoy explorando IA y desarrollo móvil, porque la mejor versión de un desarrollador es la que nunca deja de aprender.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/63ead584-beef-4db6-bc8c-4564d16b5b90" alt="Banner" width="100%">
@@ -158,15 +163,15 @@
 ## 🌐 Contáctame
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/daniel-mauricio-galindo-33b680351/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:danielmauriciogalindo07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/TU_INSTAGRAM">
+  <a href="https://www.instagram.com/g4lind0_17/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
