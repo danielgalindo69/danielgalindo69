@@ -86,31 +86,32 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
-      <h3>📦 Nombre del Proyecto 1</h3>
-      <p>Descripción breve del proyecto: qué problema resuelve, qué hace y cuál es su propósito principal.</p>
+      <h3>📦 Eluxar|sistema e-comerce con inteligencia artificial</h3>
+      <p>Sistema de de venta de productos de perfumeria y estetica, utilizando la inteligencia artificial ayuda a los
+        usuarios a tener una ide mas clara de que productos elegir.</p>
       <p>
         <strong>Tecnologías:</strong><br/>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,postgresql,angular" height="30"/>
+          <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,vercel,supabase" height="30"/>
         </a>
       </p>
       <p>
-        <a href="https://tu-deploy-link.com">🌐 Ver despliegue</a> &nbsp;|&nbsp;
+        <a href="https://eluxar-py-7jov.vercel.app/">🌐 Ver despliegue</a> &nbsp;|&nbsp;
         <a href="https://github.com/danielgalindo69/repo1">📂 Repositorio</a>
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
-      <h3>📦 Nombre del Proyecto 2</h3>
-      <p>Descripción breve del proyecto: qué problema resuelve, qué hace y cuál es su propósito principal.</p>
+      <h3>🎨 Api de NewYork Times PWA</h3>
+      <p>Aplicacion de busqueda de noticias, libros y otros productos de literatura. esta aplicacion es completamente descargable para dispositivos moviles como computadores</p>
       <p>
         <strong>Tecnologías:</strong><br/>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,docker" height="30"/>
+          <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" height="30"/>
         </a>
       </p>
       <p>
-        <a href="https://tu-deploy-link.com">🌐 Ver despliegue</a> &nbsp;|&nbsp;
-        <a href="https://github.com/danielgalindo69/repo2">📂 Repositorio</a>
+        <a href="https://new-york-times-ye5f-git-master-danielgalindo69s-projects.vercel.app/">🌐 Ver despliegue</a> &nbsp;|&nbsp;
+        <a href="https://github.com/danielgalindo69/New-York-Times">📂 Repositorio</a>
       </p>
     </td>
   </tr>
