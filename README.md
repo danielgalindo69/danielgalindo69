@@ -42,7 +42,7 @@
       <br/><br/>
       <h3>⚛️ Frontend</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vite,netlify,vercel" />
+        <img src="https://skillicons.dev/icons?i=angular,react,vite,netlify,vercel" />
       </a>
       <br/><br/>
       <h3>🎨 Diseño</h3>
@@ -58,7 +58,7 @@
     <td align="center" valign="top" width="50%">
       <h3>☕ Backend</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,flask,fastapi,maven" />
+        <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi,maven" />
       </a>
       <br/><br/>
       <h3>🗄️ Bases de Datos</h3>
